@@ -4,7 +4,7 @@ Application URL : [InsurancePremiumPredictor](https://ml-regressor-insurance.her
 <h1 align="center"> Insurance Premium Prediction Internship Project </h1>
 The goal of this project to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks whilwe keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective parts.
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/FIQuHZslL5s/default.jpg)](https://youtu.be/FIQuHZslL5s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/FIQuHZslL5s/maxresdefault.jpg)](https://youtu.be/FIQuHZslL5s "Everything Is AWESOME")
 
 
 ## Table of contents
